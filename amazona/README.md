@@ -12,3 +12,9 @@
 8. prochain cours, création de la page détail du produit
 
 9. Création Server NODE JS pour BackOffice
+10. Création d'une API product
+11. création du fichier screens > Homescreens.js + ProductScreen.js
+    qui comporte les templates du site.
+12. Création du fichier components, création des premières function Rating, dans le fichier Rating.js etc...
+13. Import de Bootstrap react, button, card etc...
+14. Création de la page détail du produit et des slugs, title etc.. avec HELMET ASYNC
