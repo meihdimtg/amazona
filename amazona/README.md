@@ -19,3 +19,4 @@
 13. Import de Bootstrap react, button, card etc...
 14. Création de la page détail du produit et des slugs, title etc.. avec HELMET ASYNC
 15. création des messages erreur, <Alert>, <MessageBox>, utils.js (pour get error personnalisé)
+16. Création de la function ADD to Cart, store.js qui est le fichier des functions du site
