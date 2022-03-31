@@ -24,3 +24,4 @@
 17. création d'une nouvelle api product:id pour donner un id au produit qu'il soit reconnu en cas d'appelle dans le panier (cart), ou autre
 18. création d'un system d'ajout au panier par rapport au stock
 19. function reducer, dans store.js.
+20. création de la page Cart, grid pour image produit, quantity, prix.
