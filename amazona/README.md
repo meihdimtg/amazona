@@ -20,3 +20,7 @@
 14. Création de la page détail du produit et des slugs, title etc.. avec HELMET ASYNC
 15. création des messages erreur, <Alert>, <MessageBox>, utils.js (pour get error personnalisé)
 16. Création de la function ADD to Cart, store.js qui est le fichier des functions du site
+
+17. création d'une nouvelle api product:id pour donner un id au produit qu'il soit reconnu en cas d'appelle dans le panier (cart), ou autre
+18. création d'un system d'ajout au panier par rapport au stock
+19. function reducer, dans store.js.
