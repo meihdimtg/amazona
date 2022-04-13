@@ -25,3 +25,7 @@
 18. création d'un system d'ajout au panier par rapport au stock
 19. function reducer, dans store.js.
 20. création de la page Cart, grid pour image produit, quantity, prix.
+21. /cart terminer
+22. creation base de donnée mongoose + dotenv .env
+23. création de seedRoutes.js, ProductRoutes.js, pour inserer les infos dans la db mongoose.
+24. envoi des produits dans la base de donnée
