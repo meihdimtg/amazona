@@ -29,3 +29,5 @@
 22. creation base de donnée mongoose + dotenv .env
 23. création de seedRoutes.js, ProductRoutes.js, pour inserer les infos dans la db mongoose.
 24. envoi des produits dans la base de donnée
+25. creation des premiers users dans la base de donnée mongoose.
+26.
