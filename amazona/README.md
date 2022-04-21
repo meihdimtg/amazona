@@ -30,4 +30,10 @@
 23. création de seedRoutes.js, ProductRoutes.js, pour inserer les infos dans la db mongoose.
 24. envoi des produits dans la base de donnée
 25. creation des premiers users dans la base de donnée mongoose.
-26.
+26. Toastify sert à créer des alerts jolie, utiliser toast.error('votre alerte');
+27. SigninScreen.js, validation du formulaire redirection sur le page home, création de dropdown
+28. Bouton signout, utilisation: onClick={signoutHandler} création d'un function const
+29. modification du fichier store.js userInfo: localStorage.getItem('userInfo')
+    ? JSON.parse(localStorage.getItem('userInfo'))
+    : null, permet de sauvegarder la session et ne pas vous déconnectez à chaque actualisation de votre page.
+30.
