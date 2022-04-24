@@ -38,3 +38,4 @@
     : null, permet de sauvegarder la session et ne pas vous déconnectez à chaque actualisation de votre page.
 30. Création de ShippingAddressScreen.js, création de la page d'information de livraison. Modification du index.css.
 31. CheckoutSteps.js, création de la progress bar avec option steps.1 actif ou non.
+32. copie colle, du signin, modification du userRoutes.js backend
