@@ -40,4 +40,5 @@
 31. CheckoutSteps.js, création de la progress bar avec option steps.1 actif ou non.
 32. copie colle, du signin, modification du userRoutes.js backend
 33. création de la page placeorder en view
-34.
+34. création orderRouter.js, route de l'api order, création ID de la commande, création du schema mongoose.
+35. configuration de la page placeorder
