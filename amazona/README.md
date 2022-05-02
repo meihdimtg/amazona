@@ -39,3 +39,5 @@
 30. Création de ShippingAddressScreen.js, création de la page d'information de livraison. Modification du index.css.
 31. CheckoutSteps.js, création de la progress bar avec option steps.1 actif ou non.
 32. copie colle, du signin, modification du userRoutes.js backend
+33. création de la page placeorder en view
+34.
