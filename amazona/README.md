@@ -42,3 +42,7 @@
 33. création de la page placeorder en view
 34. création orderRouter.js, route de l'api order, création ID de la commande, création du schema mongoose.
 35. configuration de la page placeorder
+36. création de la page order:id resultat de commande, création order get dans orderroutes backend
+37. création de la vue, le rend de la page.
+38. mise en place du paiement via paypal, installation de la librairie npm install react-paypal-js
+39.
